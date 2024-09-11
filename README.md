@@ -12,8 +12,8 @@ I'm Soheil, a passionate developer with a focus on web development, AI, machine 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soheilrabiee&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soheilrabiee&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=soheilrabiee&limit=5&theme=react&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=soheilrabiee&limit=5&theme=react&combine_all_yearly_contributions=true) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=soheilrabiee&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4)
