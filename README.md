@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 💫 About Me:
-I'm Soheil, a passionate developer with a focus on web development, AI, machine learning. I love turning ideas into code and solving real-world problems with software solutions.<br><br>🚀 Currently Working On: Django<br>🌱 Learning: Back-end development, AI<br>💡 Fun Fact: I’m obsessed with space and could talk about astronomy for hours!<br>✉️ [Email Me](mailto:iamsoheil.r@gmail.com)
+I'm Soheil, a passionate developer with a focus on web development, AI, machine learning. I love turning ideas into code and solving real-world problems with software solutions.<br><br>🚀 Currently Working On: Django<br>🌱 Learning: Back-end development, AI<br>💡 Fun Fact: I’m obsessed with space and could talk about astronomy for hours!<br>✉️ Contact: [Email Me](mailto:iamsoheil.r@gmail.com)
 
 
 
